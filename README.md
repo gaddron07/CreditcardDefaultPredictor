@@ -205,21 +205,8 @@ pip install -r requirements.txt
 ### Step 3: Run Notebooks
 
 - Open any notebook (e.g., `Model_7_Advanced_Stacking.ipynb`) and run all cells to see each model’s full pipeline and evaluation.
-
-### Step 4: Run Inference & Make Submission
-
-```bash
-python inference_and_submission.py
-```
 - This will generate `submission_23114017.csv`.
-
-### Step 5: (Optional) Generate Feature Importance & SHAP Explanations
-
-```bash
-python feature_importance_and_shap_all_models.py
-```
 - Check the generated PNG files for interpretability.
-
 ---
 
 ## Requirements
