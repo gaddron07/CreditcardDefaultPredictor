@@ -198,9 +198,7 @@ cd <repo>/test
 
 ### Step 2: Install Requirements
 
-```bash
-pip install -r requirements.txt
-```
+-Based on libraries that are not present (ex: catboost,bayseian-optimization,etc...)
 
 ### Step 3: Run Notebooks
 
