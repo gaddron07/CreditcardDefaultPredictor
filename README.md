@@ -207,12 +207,6 @@ cd <repo>/test
 - Check the generated PNG files for interpretability.
 ---
 
-## Requirements
-
-See `requirements.txt` for all dependencies (pandas, scikit-learn, imbalanced-learn, xgboost, catboost, lightgbm, optuna, shap, etc.).
-
----
-
 ## References & Acknowledgements
 
 - [XGBoost Documentation](https://xgboost.readthedocs.io/)
